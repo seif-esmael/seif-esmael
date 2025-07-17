@@ -11,7 +11,6 @@
 - 🎓 I'm a final-year Computer Engineering student passionate about building real-world solutions.
 - 🛠️ I’m currently developing **Fixora**, a full-stack platform that connects customers with skilled craftsmen.
 - 💡 I love turning ideas into scalable applications using **Flutter**, **Firebase**, and modern backend APIs.
-- 🔐 Cybersecurity is another field I enjoy exploring — I've worked with tools like **Wireshark**, **Nmap**, **Kali Linux**, and **Cisco Packet Tracer**.
 - 🌍 Always eager to collaborate, solve challenging problems, and learn from others in tech communities.
 
 ---
